@@ -113,4 +113,12 @@ Freeware – free to use, but **not for sale**. See [LICENSE](LICENSE).
 
 Abri is not an official rclone project. rclone is © Nick Craig-Wood and contributors (MIT License); Abri does not include it but uses the rclone installed on your computer or downloads it from rclone.org. The app icon is based on the rclone logo (MIT License); some service icons are based on [Tabler Icons](https://tabler.io/icons) (MIT License).
 
+## Support
+
+If Abri saves you time, you can support its development on Ko‑fi. ☕
+
+<a href='https://ko-fi.com/N7N123QIX0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+---
+
 © 2026 [Ali Naderi](https://github.com/naderi) · [digitalent.dev](https://digitalent.dev/en/)
